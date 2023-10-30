@@ -4,6 +4,7 @@ Spyder Editor
 
 This is a temporary script file.
 """
+#LiyaT
 """
 import os
 from PIL import Image
